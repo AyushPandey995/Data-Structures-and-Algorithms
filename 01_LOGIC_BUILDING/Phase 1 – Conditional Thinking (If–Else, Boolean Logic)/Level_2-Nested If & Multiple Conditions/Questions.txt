@@ -1,5 +1,4 @@
-
-Phase – Looping & Patterns (Iteration & Flow) 
+Phase I – Conditional Thinking (If–Else, Boolean Logic)
 
 Level 2: Nested If & Multiple Conditions 
 

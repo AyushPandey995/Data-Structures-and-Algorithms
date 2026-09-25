@@ -1,4 +1,4 @@
-Phase– Conditional Thinking (If–Else, Boolean Logic)
+Phase I – Conditional Thinking (If–Else, Boolean Logic)
 
 Level 1: Simple Conditions (Getting started) 
 
